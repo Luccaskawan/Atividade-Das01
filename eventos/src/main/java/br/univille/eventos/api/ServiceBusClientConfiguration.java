@@ -18,7 +18,7 @@ public class ServiceBusClientConfiguration {
     private static final String SERVICE_BUS_FQDN = "das1univille.servicebus.windows.net";
     private static final String TOPIC_NAME = "das1";
     private static final String SUBSCRIPTION_NAME = "subswalter";
-    private static final String QUEUE_NAME = "queue-walter";
+    private static final String QUEUE_NAME = "queue-luccas";
 
     @Bean
     ServiceBusClientBuilder serviceBusClientBuilder() {
